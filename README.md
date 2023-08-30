@@ -26,6 +26,11 @@ Neural style transfer recently has become one of the most popular topics in acad
 • As below, the output corresponds to the content of the statistical photograph and the fashion of the image changes. These data are extracted from the pics the use of a convolutional neural network.
 • Simply positioned, the generated photograph is similar to the content material of the photo, however as if drawn via Van Gogh within the style of Starry Night.
 
-# Proposed system 
+# Proposed system:
 Neural style transfer is an optimization technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
+
+# Reference Images:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/af7c9391-7046-4178-855e-22c74e1efc50)
+
 
