@@ -1,6 +1,11 @@
 # Image-Processing-into-Artworks-using-CNN
 
 Neural style transfer recently has become one of the most popular topics in academic research and industrial application. The existing methods can generate synthetic images by transferring different styles of some images to another given content images, but they mainly focus on learning low-level features of images with losses of content and style, leading to greatly alter the salient information of content images in the semantic level. In this paper, an improved scheme is proposed to keep the salient regions of the transferred image the same with that of content image. By adding the region loss calculated from a localization network, the synthetic image can almost keep the main salient regions consistent with that of original content image, which helps for saliency-based tasks such as object localization and classification. In addition, the transferred effect is more natural and attractive, avoiding simple texture overlay of the style image. Furthermore, our scheme can also extend to remain other semantic information (such as shape, edge, and color) of the image with the corresponding estimation networks.
+
+# System Architecture:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/14acec62-002d-436a-85f6-98ed47c534f4)
+
 # Modules: 
 # Color Quantization:
 • reduces the range of different colours inside the photograph so that the brand new photograph is visually similar and compressed in length.
