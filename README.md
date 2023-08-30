@@ -13,6 +13,11 @@ Neural style transfer recently has become one of the most popular topics in acad
 • K approach clustered institution factors of the same color.
 • K cluster centroids represent the 3D RGB colour area and replace the colors of all factors within the cluster, ensuing in an photo with K colours.
 
+# Block Diagram:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/7c61f12e-0199-424a-a4d7-9bdd898ae402)
+
+
 # Super pixel Segmentation
 • Split the photograph into superpixels. A superpixel is a group of associated elements with comparable colorings or grey ranges.
 • It makes use of a random segmentation technique called easy linear iterative clustering (SLIC). Segment the photo the use of K to symbolize the fringe.
