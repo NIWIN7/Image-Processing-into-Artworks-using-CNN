@@ -23,6 +23,11 @@ Neural style transfer recently has become one of the most popular topics in acad
 • It makes use of a random segmentation technique called easy linear iterative clustering (SLIC). Segment the photo the use of K to symbolize the fringe.
 • takes all of the pixel values of the image and tries to divide them right into a predefined quantity of subregions.
 
+# Content reconstruction using CNN Style Reconstruction:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/14452f15-2b90-421a-bbfb-4d6bb16513c2)
+
+
 # Neural Style Transfer:
 • An optimization approach that combines the content material of an image with the style of some other photograph, correctly conveying the fashion.
 • Image content: the shape of gadgets, their unique format and vicinity.
@@ -37,5 +42,16 @@ Neural style transfer is an optimization technique used to take two images—a c
 # Reference Images:
 
 ![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/af7c9391-7046-4178-855e-22c74e1efc50)
+
+
+#  Output(using Style and Content)obtained from Style Transfer Experiment:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/19bb9449-b9f8-4b5d-b8b2-750aac0456e9)
+
+# Results of the Video Style Transfer Experiment:
+
+![image](https://github.com/NIWIN7/Image-Processing-into-Artworks-using-CNN/assets/81300121/64cf1b1a-19e8-432a-8cb9-59037847689a)
+
+
 
 
